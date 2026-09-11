@@ -39,12 +39,12 @@ Hiring managers see a CV line; they rarely see the work. This repository puts ev
 ```mermaid
 pie showData
     title Projects by track
-    HEXA Solutions : 14
-    Product Management : 8
-    Internship Studio : 16
-    Codec Technologies : 50
-    Data Analytics Module 1 : 4
-    Personal Builds : 11
+    "HEXA Solutions" : 14
+    "Product Management" : 8
+    "Internship Studio" : 16
+    "Codec Technologies" : 50
+    "Data Analytics Module 1" : 4
+    "Personal Builds" : 11
 ```
 
 ## Full project index
