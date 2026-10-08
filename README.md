@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/REPO_MASTER.svg" width="100%" alt="Master Project Portfolio 2026 — Eswar Mahalingam" />
 
-<a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF" alt="CAREER CONTROL TOWER"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO-000000?style=for-the-badge&labelColor=C9CDD6" alt="MASTER PORTFOLIO"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-000000?style=for-the-badge&labelColor=FFFFFF" alt="LENS INDEX"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-LIVE_DASHBOARD-000000?style=for-the-badge&labelColor=FFFFFF" alt="LIVE DASHBOARD"/></a>
+<a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF" alt="CAREER CONTROL TOWER"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO-0B1026?style=for-the-badge&labelColor=B388FF" alt="MASTER PORTFOLIO"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=00E5FF" alt="LENS INDEX"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-LIVE_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF" alt="LIVE DASHBOARD"/></a>
 
-<img src="https://img.shields.io/badge/PROJECTS-112-FFFFFF?style=for-the-badge&labelColor=000000" alt="PROJECTS: 112"/> <img src="https://img.shields.io/badge/TRACKS-7-C9CDD6?style=for-the-badge&labelColor=000000" alt="TRACKS: 7"/> <img src="https://img.shields.io/badge/REPORT_PDFs_(CODEC)-50-FFFFFF?style=for-the-badge&labelColor=000000" alt="REPORT PDFs (CODEC): 50"/> <img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-C9CDD6?style=for-the-badge&labelColor=000000" alt="AUTOMATED TESTS: 640+"/> <img src="https://img.shields.io/badge/UNVERIFIED_FIGURES-0-FFFFFF?style=for-the-badge&labelColor=000000" alt="UNVERIFIED FIGURES: 0"/>
+<img src="https://img.shields.io/badge/PROJECTS-112-00E5FF?style=for-the-badge&labelColor=0B1026" alt="PROJECTS: 112"/> <img src="https://img.shields.io/badge/TRACKS-7-B388FF?style=for-the-badge&labelColor=0B1026" alt="TRACKS: 7"/> <img src="https://img.shields.io/badge/REPORT_PDFs_(CODEC)-50-00E5FF?style=for-the-badge&labelColor=0B1026" alt="REPORT PDFs (CODEC): 50"/> <img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-B388FF?style=for-the-badge&labelColor=0B1026" alt="AUTOMATED TESTS: 640+"/> <img src="https://img.shields.io/badge/UNVERIFIED_FIGURES-0-00E5FF?style=for-the-badge&labelColor=0B1026" alt="UNVERIFIED FIGURES: 0"/>
 
 **Every project I delivered in 2026, in one navigable registry** — data analytics · product management · engineering & security · supply chain · Excel · personal builds
 
@@ -235,11 +235,11 @@ Verified figures only · declared substitutions wherever a real dataset or a nam
 **Eswar Mahalingam** · B.Com · MBA · PGDLSCM · CSCMP SCPro · Six Sigma Black Belt
 Data Scientist @ Zidio Development · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
 
-[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
-[![Email](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
-[![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
-[![Profile](https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://github.com/Eswar5313)
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
+[![Profile](https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF)](https://github.com/Eswar5313)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
